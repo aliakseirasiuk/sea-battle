@@ -1,7 +1,7 @@
 public class SimpleDotCom{
 	int[] locationCells;
 	int numOfHits = 0;
-//test
+
 
 	void setLocationCells(int[] cellLocation){
 		locationCells = cellLocation;
